@@ -1,0 +1,21 @@
+Primeiro instalar o vite na pasta cliente npm create vite@latest
+
+Depois executar o comando npm install
+
+Depois instalar o socket.io npm i socket.io-client
+
+Depois executa a aplicação com npm run dev
+
+Após isso executa o node no lado do server npm init -y
+
+Instalar o express npm i express socket.io
+
+Instalar o nodemon npm install nodemon -D
+
+Após isso instalar o framework para visual
+
+https://mui.com/material-ui/getting-started/installation/
+
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/icons-material
+npm install @mui/material @mui/styled-engine-sc styled-components
